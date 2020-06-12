@@ -1,0 +1,15 @@
+.nav {
+  height: 100px;
+
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+  width: 100%;
+  transition: all 0.25s;
+}
+.scrolled {
+  position: fixed;
+  background: green;
+  height: 50px;
+  font-size: 16px;
+}
